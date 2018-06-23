@@ -8,7 +8,10 @@ October 7th, 2017
 
 ## **Summary**
 
-The project was done for the MFE230T course "Building Machine Learning Systems: Tools, Platforms, and Financial Applications" of the UC Berkeley MFE Program. Other contributors for the project were Pierre Monroy, and James Wang. 
+The project was done for the MFE230T course "Building Machine Learning Systems: Tools, Platforms, and Financial Applications" of the UC Berkeley MFE Program.
+
+Other contributors to the project were Pierre Monroy, and James Wang.
+
 My contribution to the project was building the Python infrastructure that directed data cleaning, feature engineering, model training/assessment and strategy backtesting.
 
 ## **Python Files**
@@ -19,5 +22,4 @@ The implementation of the project was done through three Python files:
 
 * **_data_module.py_**: data extraction, pre-processing, and cleaning module.
 
-* **_Model Development.ipynb_**: backtester module.
-
+* **_Model Development.py_**: backtester module.
